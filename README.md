@@ -81,9 +81,9 @@ Proposta de redesign do site [blacksolucoes.com.br](https://blacksolucoes.com.br
 
 ## 💬 Feedback
 
-Após testar, envie suas observações pelo WhatsApp ou e-mail:
-- **WhatsApp:** (19) 3800-3300
-- **E-mail:** contato@blacksolucoes.com.br
+Após testar, envie suas observações para o Alan:
+- **WhatsApp:** (19) 99548-3158
+- **E-mail:** alan.moreira@amconsultoria.site
 
 ---
 
