@@ -72,12 +72,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const typedEl = document.getElementById('typed');
     if (typedEl) {
         const words = [
-            'Comunicação Inteligente',
-            'Telefonia IP',
-            'Soluções em Nuvem',
-            'Consultoria Especializada',
-            'Home Office',
-            'Projetos sob Medida'
+            'Infraestrutura de Rede',
+            'Helpdesk & Suporte',
+            'Telefonia IP / VoIP',
+            'BI & Inteligência de Dados',
+            'CFTV & Segurança',
+            'Consultoria Especializada'
         ];
         let wordIdx = 0, charIdx = 0, deleting = false;
 
